@@ -94,7 +94,7 @@ paste_info= {
     'api_option': 'paste',
     'api_paste_code': log_data,
     'api_paste_private': '0',  # 0 = public, 1 = unlisted, 2 = private
-    'api_paste_name': "Inspector's Info Log (automatic)",
+    'api_paste_name': "Inspector's Info Log (remote//auto)",
     'api_paste_expire_date': 'N'
 }
 
